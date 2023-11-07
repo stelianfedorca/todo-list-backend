@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "stelian_fedorca",
+    "MONGO_PASSWORD": "wCRoB2cf3laulUkG",
+    "MONGO_DB": "cluster0"
+  }
+}
